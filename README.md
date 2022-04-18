@@ -2,7 +2,7 @@
 
 This repository contains code and files for reproducing the analysis presented on the website https://project-dimentia.herokuapp.com/ and in the blog post (click the Study Findings on the left nav).
 
-1. Data is in the dataFiles directory
+1. Data is in the OrigFiles directory
 2. Exploratory data analysis (EDA) of the donor information was done in the notebook EDA-DonorInfo.ipynb
 3. Exploratory data analysis (EDA) of the protein image metrics was done in the notebook EDA-ProteinPathologyQuantification.ipynb
 4. Exploratory data analysis (EDA) presented in the blog post was done in the notebook EDA-report.ipynb
