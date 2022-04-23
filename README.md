@@ -1,6 +1,6 @@
 ## Aging, Dementia and Traumatic Brain Injury Study
 
-This repository contains code and files for reproducing the analysis presented on the website https://project-dementia.herokuapp.com/ and in the blog post (click the Study Findings on the left nav).
+This is the capstone project of Team Yamanaka for MADS program. We are a group of masters students from University of Michigan completing our masters in applied data science. After close to 2 years of study, we have learned machine learning, data mining, NLP, visual exploration and many more that data scientist need. We have been given an opportunity to apply all our learnings to our final capstone project. This github repo, and another github repo https://github.com/singhsud2157/project_capstone contains code and files for reproducing the analysis presented on the website https://project-dementia.herokuapp.com/ and in the blog post (click the Study Findings on the left nav).   
 
 1. Data is in the OrigFiles directory
 2. Exploratory data analysis (EDA) of the donor information was done in the notebook EDA-DonorInfo.ipynb
